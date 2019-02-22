@@ -1,9 +1,11 @@
 {
-  "todos": [
+  "posts": [
     {
       "id": 1,
-      "title": "hello",
-      "complete":false
+      "title": "hello"
     }
   ],
+  "profile": {
+    "name": "typicode"
+  }
 }
